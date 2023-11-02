@@ -1,2 +1,2 @@
 # hello-world
-software engineering course pw
+software engineering course practical work
